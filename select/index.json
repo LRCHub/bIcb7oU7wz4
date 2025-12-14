@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "恋人ごっこ",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-14T02:01:07.879705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋人ごっこ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_恋人ごっこ_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋人ごっこ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_恋人ごっこ_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋人ごっこ - koibitogokko",
+      "artist": "macaroni enpitsu",
+      "has_synced": true,
+      "path": "select/03_恋人ごっこ_-_koibitogokko_macaroni_enpitsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋人ごっこ - Koibitogokko",
+      "artist": "Macaroni Enpitsu",
+      "has_synced": true,
+      "path": "select/04_恋人ごっこ_-_Koibitogokko_Macaroni_Enpitsu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋人ごっこ - koibitogokko",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/05_恋人ごっこ_-_koibitogokko_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋人ごっこ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/06_恋人ごっこ_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋人ごっこ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/07_恋人ごっこ_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マカロニえんぴつ「恋人ごっこ」MV",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/08_マカロニえんぴつ「恋人ごっこ」MV_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋人ごっこ",
+      "artist": "ザアザア",
+      "has_synced": false,
+      "path": "select/09_恋人ごっこ_ザアザア.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋人ごっこ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_恋人ごっこ_マカロニえんぴつ.txt"
+    }
+  ]
+}
